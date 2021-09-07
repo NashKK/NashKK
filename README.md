@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/832340116395655288.png" />
+</p>
 
-<!--
-**NashKK/NashKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://img.shields.io/github/followers/NashKK?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=NashKK&show_icons=true&theme=dark" alt="Leonnardo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashKK&theme=dark" alt="Leonnardo" />
+   
+</p>
+<hr>
 
-Here are some ideas to get you started:
+Discord: Nash.reg#0001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+
+<hr>
+
+  ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
