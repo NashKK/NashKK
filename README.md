@@ -22,7 +22,7 @@ Discord: Nash.reg#0001
 
 <div>
  <a href = "https://www.youtube.com/channel/UCRSuf5ZcXMsNYpTV4DkE7pA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-<a href = "https://www.twitch.tv/scrollzzza"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+<a href = "https://twitch.tv/scrollzzza"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
 </div>
 
 <hr>
