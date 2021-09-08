@@ -27,4 +27,4 @@ Discord: Nash.reg#0001
 
 <hr>
 
-  ![Snake animation](https://github.com/NashKK)
+  ![Snake animation](https://github.com/NashKK/NashKK/blob/output/github-contribution-grid-snake.svg)
